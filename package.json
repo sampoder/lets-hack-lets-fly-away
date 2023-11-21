@@ -1,0 +1,8 @@
+{
+  "name": "lets-hack-lets-fly-away",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sampoder/lets-hack-lets-fly-away.git",
+  "author": "Sam Poder <sam.r.poder@gmail.com>",
+  "license": "MIT"
+}
